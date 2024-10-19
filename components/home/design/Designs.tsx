@@ -20,12 +20,23 @@ export const Designs = () => {
 const designs = [
   {
     title: "BiLLiE EiLiSH-Birds of a Feather",
-    imgSrc: "/design-imgs/billie ",
+    imgSrc: "/design-imgs/billie eilish.png",
     tech: ["Photoshop"],
     description: "Birds of a Feather  ",
     modalContent: (
       <>
         <p>Using Typography </p>
+      </>
+    ),
+  },
+  {
+    title: "Motion path",
+    imgSrc: "/design-imgs/japen-girl copy.png",
+    tech: ["Photoshop"],
+    description: "path blur  ",
+    modalContent: (
+      <>
+        <p>Asthetic</p>
       </>
     ),
   },
