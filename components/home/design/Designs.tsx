@@ -19,6 +19,51 @@ export const Designs = () => {
 
 const designs = [
   {
+    title: "BiLLiE EiLiSH-Birds of a Feather",
+    imgSrc: "/design-imgs/billie ",
+    tech: ["Photoshop"],
+    description: "Birds of a Feather  ",
+    modalContent: (
+      <>
+        <p>Using Typography </p>
+      </>
+    ),
+  },
+
+  {
+    title: "Cole Palmer",
+    imgSrc: "/design-imgs/colePalmer.png",
+    tech: ["Photoshop"],
+    description: "The chelsea starBOY ",
+    modalContent: (
+      <>
+        <p>Using photoshop</p>
+      </>
+    ),
+  },
+  {
+    title: "ANTi-CLOCK",
+    imgSrc: "/design-imgs/anti-design copy.png",
+    tech: ["Photoshop"],
+    description: "Anti-Design ",
+    modalContent: (
+      <>
+        <p>Using some font with typography</p>
+      </>
+    ),
+  },
+  {
+    title: "Brutalism HOPE",
+    imgSrc: "/design-imgs/hope copy.png",
+    tech: ["Illustrator", "Photoshop"],
+    description: "Brutalism  ",
+    modalContent: (
+      <>
+        <p>Thresholdt</p>
+      </>
+    ),
+  },
+  {
     title: "PUMA AMG",
     imgSrc: "/design-imgs/amg.jpg",
     tech: ["Illustrator", "Photoshop"],
@@ -52,8 +97,30 @@ const designs = [
     ),
   },
   {
+    title: "UiX LOGO",
+    imgSrc: "/design-imgs/uixW.png",
+    tech: ["Illustrator"],
+    description: "UiX modern logo ",
+    modalContent: (
+      <>
+        <p>Design that describe somethingg ...</p>
+      </>
+    ),
+  },
+  {
+    title: "UiX LOGO Mockup",
+    imgSrc: "/design-imgs/booky.png",
+    tech: ["Illustrator"],
+    description: "MOCKUP for UiX ",
+    modalContent: (
+      <>
+        <p>Mockup light up the branding visual status</p>
+      </>
+    ),
+  },
+  {
     title: "ADIDAS originals FORUM",
-    imgSrc: "https://drive.google.com/uc?export=view&id=19hr3joeZCSjfAbb9QhWLmoE5KuDqvUmb",
+    imgSrc: "/design-imgs/forum.png",
     tech: ["Photoshop"],
     description: "FORUM snekar",
     modalContent: (
