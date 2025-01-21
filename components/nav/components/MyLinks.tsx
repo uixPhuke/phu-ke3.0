@@ -40,7 +40,7 @@ export const MyLinks = () => {
         transition={{ duration: 0.5, delay: 0.2 }}
       >
         <Link
-          href="https://github.com/Rohangith1"
+          href="https://github.com/uixPhuke"
           target="_blank"
           rel="nofollow"
         >
@@ -54,7 +54,7 @@ export const MyLinks = () => {
         transition={{ duration: 0.5, delay: 0.3 }}
       >
         <Link
-          href="https://www.instagram.com/uix_phuke/"
+          href="https://www.instagram.com/byphixel/"
           target="_blank"
           rel="nofollow"
         >
