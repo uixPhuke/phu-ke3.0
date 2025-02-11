@@ -26,5 +26,20 @@ const experience = [
       "velo",
       "Github",
     ],
+  },
+  {
+    title: "snsincmedia",
+    position: "Graphic Designer",
+    time: "Nov 2024 - Going On",
+    location: "Guwahati, Assam",
+    description:
+      "Create functional, high-level, dynamic and reusable components based on mock-up given using Velo Javascript . Coordinated on team for QA, bug fixes, features and code refactoring.",
+    tech: [
+      "Illustrator",
+      "Photoshop",
+      "After Effect",
+      "Davinci Resolve",
+      "Premier Pro"
+    ],
   }
 ];
