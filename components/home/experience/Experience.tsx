@@ -28,7 +28,7 @@ const experience = [
     ],
   },
   {
-    title: "snsincmedia",
+    title: "SnSinc media",
     position: "Graphic Designer",
     time: "Nov 2024 - Going On",
     location: "Guwahati, Assam IND",
