@@ -31,9 +31,9 @@ const experience = [
     title: "snsincmedia",
     position: "Graphic Designer",
     time: "Nov 2024 - Going On",
-    location: "Guwahati, Assam",
+    location: "Guwahati, Assam IND",
     description:
-      "Create functional, high-level, dynamic and reusable components based on mock-up given using Velo Javascript . Coordinated on team for QA, bug fixes, features and code refactoring.",
+      "Creating compelling visual content for our social media channels, website, and other digital marketing materials. Staying updated on the latest design trends and technologies to ensure our work remains fresh and innovative.",
     tech: [
       "Illustrator",
       "Photoshop",
