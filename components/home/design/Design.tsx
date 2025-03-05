@@ -65,13 +65,6 @@ export const Design = ({
             }}
           />
         </div>
-        <div className={styles.projectCopy}>
-          <Reveal>
-            <p className={styles.projectDescription}>
-              <span onClick={() => setIsOpen(true)}>Learn more {">"}</span>
-            </p>
-          </Reveal>
-        </div>
       </motion.div>
       <DesignModal
         modalContent={modalContent}

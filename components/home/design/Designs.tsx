@@ -1,20 +1,36 @@
 import { SectionHeader } from "@/components/utils/SectionHeader";
 import { Design } from "./Design";
+import Masonry from "react-masonry-css";
 import styles from "./design.module.scss";
 
 export const Designs = () => {
+  // Define breakpoints for the masonry layout
+  const breakpointColumnsObj = {
+    default: 4, // 4 columns for large screens
+    1024: 2, // 2 columns for medium screens
+    768: 1, // 1 column for small screens
+  };
+
   return (
     <section id="design" className="section-wrapper">
       <SectionHeader title="Designs" dir="l" />
 
-      <div className={styles.projects}>
+      {/* Masonry Grid */}
+      <Masonry
+        breakpointCols={breakpointColumnsObj}
+        className={styles.projects}
+        columnClassName={styles.masonryGridColumn}
+      >
         {designs.map((project) => {
           return <Design key={project.title} {...project} />;
         })}
-      </div>
+      </Masonry>
     </section>
   );
 };
+
+// Your designs array
+
 
 
 
@@ -88,6 +104,17 @@ const designs = [
     ),
   },
   {
+    title: "ADIDAS originals FORUM",
+    imgSrc: "/design-imgs/forum.png",
+    tech: ["Photoshop"],
+    description: "FORUM snekar",
+    modalContent: (
+      <>
+        <p>Unleash Your Creativity with Every Steps</p>
+      </>
+    ),
+  },
+  {
     title: "CHASE ATLANTiC",
     imgSrc: "/design-imgs/cA.png",
     tech: ["Illustrator", "Photoshop"],
@@ -131,17 +158,7 @@ const designs = [
       </>
     ),
   },
-  {
-    title: "ADIDAS originals FORUM",
-    imgSrc: "/design-imgs/forum.png",
-    tech: ["Photoshop"],
-    description: "FORUM snekar",
-    modalContent: (
-      <>
-        <p>Unleash Your Creativity with Every Steps</p>
-      </>
-    ),
-  },
+  
   {
     title: "iSAGi",
     imgSrc: "/design-imgs/isagi.jpg",
