@@ -1,11 +1,11 @@
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); // Responsive grid
+  grid-template-columns: repeat(4, 1fr); // 4 columns for large screens
   gap: 1.6rem; // Adjust gap between items
   padding: 1.6rem; // Add padding for better spacing
 
   @media (max-width: 768px) {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); // Adjust for smaller screens
+    grid-template-columns: repeat(2, 1fr); // 2 columns for smaller screens
   }
 }
 

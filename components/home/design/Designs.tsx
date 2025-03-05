@@ -2,7 +2,6 @@ import { SectionHeader } from "@/components/utils/SectionHeader";
 import { Design } from "./Design";
 import styles from "./design.module.scss";
 
-
 export const Designs = () => {
   return (
     <section id="design" className="section-wrapper">
@@ -16,6 +15,9 @@ export const Designs = () => {
     </section>
   );
 };
+
+
+
 
 const designs = [
   {

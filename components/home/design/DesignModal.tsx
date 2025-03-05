@@ -24,7 +24,7 @@ export const DesignModal = ({
   imgSrc,
   isOpen,
   title,
-  
+ 
   tech,
 }: Props) => {
   useEffect(() => {

@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { Reveal } from "@/components/utils/Reveal";
 import { useAnimation, useInView, motion } from "framer-motion";
-import { AiFillGithub, AiOutlineExport } from "react-icons/ai";
 import { DesignModal } from "./DesignModal";
 import styles from "./design.module.scss";
 import { useEffect, useRef, useState } from "react";
@@ -78,7 +77,6 @@ export const Design = ({
           </Reveal>
           <Reveal>
             <p className={styles.projectDescription}>
-              {description} <br />
               <span onClick={() => setIsOpen(true)}>Learn more {">"}</span>
             </p>
           </Reveal>
