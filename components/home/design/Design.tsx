@@ -66,15 +66,6 @@ export const Design = ({
           />
         </div>
         <div className={styles.projectCopy}>
-          <Reveal width="100%">
-            <div className={styles.projectTitle}>
-              <h4>{title}</h4>
-              <div className={styles.projectTitleLine} />
-            </div>
-          </Reveal>
-          <Reveal>
-            <div className={styles.projectTech}>{tech.join(" - ")}</div>
-          </Reveal>
           <Reveal>
             <p className={styles.projectDescription}>
               <span onClick={() => setIsOpen(true)}>Learn more {">"}</span>
@@ -89,6 +80,7 @@ export const Design = ({
         imgSrc={imgSrc}
         title={title}
         tech={tech}
+        description={description}
       />
     </>
   );

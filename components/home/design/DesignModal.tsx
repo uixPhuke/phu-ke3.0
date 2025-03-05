@@ -2,30 +2,27 @@ import styles from "./designmodal.module.scss";
 import { useEffect } from "react";
 import ReactDOM from "react-dom";
 import { motion } from "framer-motion";
-import Link from "next/link";
-import { AiFillGithub, AiOutlineExport } from "react-icons/ai";
 import { MdClose } from "react-icons/md";
 import Image from "next/image";
+
 interface Props {
   isOpen: boolean;
   setIsOpen: Function;
   title: string;
   imgSrc: string;
-  
-  
   tech: string[];
+  description: string;
   modalContent: JSX.Element;
 }
 
 export const DesignModal = ({
   modalContent,
-  
   setIsOpen,
   imgSrc,
   isOpen,
   title,
- 
   tech,
+  description,
 }: Props) => {
   useEffect(() => {
     const body = document.querySelector("body");
@@ -56,22 +53,12 @@ export const DesignModal = ({
           width={500}
           height={400}
           className={styles.modalImage}
-          />
-        {/* <img
-          className={styles.modalImage}
-          src={imgSrc}
-          alt={`An image of the ${title} project.`}
-        /> */}
+        />
         <div className={styles.modalContent}>
           <h4>{title}</h4>
           <div className={styles.modalTech}>{tech.join(" - ")}</div>
-
+          <p className={styles.modalDescription}>{description}</p>
           <div className={styles.suppliedContent}>{modalContent}</div>
-
-          <div className={styles.modalFooter}>
-            
-            
-          </div>
         </div>
       </motion.div>
     </div>
