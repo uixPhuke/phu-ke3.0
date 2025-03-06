@@ -45,6 +45,9 @@ export const Stats = () => {
             <span className="chip">Tailwind</span>
             <span className="chip">Photoshop</span>
             <span className="chip">Illustrator</span>
+            <span className="chip">After Effect</span>
+            <span className="chip">Davinci Resolve</span>
+            <span className="chip">Premier Pro</span>
 
             <span className="chip">Vercel</span>
             <span className="chip">Laravel</span>
