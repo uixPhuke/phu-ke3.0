@@ -1,14 +1,14 @@
-import Image from "next/image";
 import { Reveal } from "@/components/utils/Reveal";
 import { useAnimation, useInView, motion } from "framer-motion";
 import { DesignModal } from "./DesignModal";
 import styles from "./design.module.scss";
 import { useEffect, useRef, useState } from "react";
+import CloudinaryImage from "../../utils/cloudinary";
 
 interface Props {
   modalContent: JSX.Element;
   description: string;
-  imgSrc: string;
+  imgSrc: string; // This will now be the Cloudinary public ID
   tech: string[];
   title: string;
 }
@@ -52,17 +52,11 @@ export const Design = ({
           onClick={() => setIsOpen(true)}
           className={styles.projectImage}
         >
-          <Image
-            priority
-            src={imgSrc}
+          <CloudinaryImage
+            publicId={imgSrc} // Use the Cloudinary public ID
             alt={`An image of the ${title} Design.`}
             width={400}
             height={500}
-            style={{
-              width: "100%",
-              height: "auto",
-              borderRadius: "0.4rem",
-            }}
           />
         </div>
       </motion.div>

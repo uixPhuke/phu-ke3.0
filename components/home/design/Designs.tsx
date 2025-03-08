@@ -30,26 +30,21 @@ export const Designs = () => {
 };
 
 // Your designs array
-
-
-
-
-
 const designs = [
   {
     title: "BiLLiE EiLiSH-Birds of a Feather",
-    imgSrc: "/design-imgs/billie eilish.png",
+    imgSrc: "billie_eilish_hqaxdl", // Cloudinary public ID
     tech: ["Photoshop"],
-    description: "Birds of a Feather  ",
+    description: "Birds of a Feather",
     modalContent: (
       <>
-        <p>Using Typography </p>
+        <p>Using Typography</p>
       </>
     ),
   },
   {
     title: "Motion path",
-    imgSrc: "/design-imgs/japen-girl copy.png",
+    imgSrc: "japen-girl_copy_rer5t2",
     tech: ["Photoshop"],
     description: "path blur  ",
     modalContent: (
@@ -61,7 +56,7 @@ const designs = [
 
   {
     title: "Cole Palmer",
-    imgSrc: "/design-imgs/colePalmer.png",
+    imgSrc: "colePalmer_nzcc2t",
     tech: ["Photoshop"],
     description: "The chelsea starBOY ",
     modalContent: (
@@ -72,7 +67,7 @@ const designs = [
   },
   {
     title: "ANTi-CLOCK",
-    imgSrc: "/design-imgs/anti-design copy.png",
+    imgSrc: "anti-design_copy_fgwvac",
     tech: ["Photoshop"],
     description: "Anti-Design ",
     modalContent: (
@@ -83,7 +78,7 @@ const designs = [
   },
   {
     title: "Brutalism HOPE",
-    imgSrc: "/design-imgs/hope copy.png",
+    imgSrc: "hope_copy_wbh00g",
     tech: ["Illustrator", "Photoshop"],
     description: "Brutalism  ",
     modalContent: (
@@ -94,7 +89,7 @@ const designs = [
   },
   {
     title: "PUMA AMG",
-    imgSrc: "/design-imgs/amg.jpg",
+    imgSrc: "amg_jxjybv",
     tech: ["Illustrator", "Photoshop"],
     description: "Mercedes AMG Petronas F1 Leadcat 2.0 Logo Unisex Slides ",
     modalContent: (
@@ -105,7 +100,7 @@ const designs = [
   },
   {
     title: "ADIDAS originals FORUM",
-    imgSrc: "/design-imgs/forum.png",
+    imgSrc: "forum_viuqlq",
     tech: ["Photoshop"],
     description: "FORUM snekar",
     modalContent: (
@@ -116,7 +111,7 @@ const designs = [
   },
   {
     title: "CHASE ATLANTiC",
-    imgSrc: "/design-imgs/cA.png",
+    imgSrc: "chase_atlentic_copy_rtdeag",
     tech: ["Illustrator", "Photoshop"],
     description: "Lost iN Heaven-NEW ALBUM",
     modalContent: (
@@ -127,7 +122,7 @@ const designs = [
   },
   {
     title: "VANS -off the wall",
-    imgSrc: "/design-imgs/vans2.png",
+    imgSrc: "vans3_lhu2p3",
     tech: ["Photoshop"],
     description: "Vans sneaker design ",
     modalContent: (
@@ -138,7 +133,7 @@ const designs = [
   },
   {
     title: "UiX LOGO",
-    imgSrc: "/design-imgs/uixW.png",
+    imgSrc: "uixW_s4qlmn",
     tech: ["Illustrator"],
     description: "UiX modern logo ",
     modalContent: (
@@ -149,8 +144,8 @@ const designs = [
   },
   {
     title: "UiX LOGO Mockup",
-    imgSrc: "/design-imgs/booky.png",
-    tech: ["Illustrator"],
+    imgSrc: "booky_oh57oc",
+    tech: ["Photoshop"],
     description: "MOCKUP for UiX ",
     modalContent: (
       <>
@@ -160,29 +155,29 @@ const designs = [
   },
   
   {
-    title: "iSAGi",
-    imgSrc: "/design-imgs/isagi.jpg",
+    title: "THUNDER Font",
+    imgSrc: "thunder_copy_tcnbxz",
 
-    tech: ["Illustrator", "Photoshop"],
-    description: "Blue Lock (Japanese: ブルーロック, Hepburn: Burū Rokku)  ",
+    tech: ["Photoshop"],
+    description: "  ",
     modalContent: (
       <>
-        <p>Combination of scratch and Digital art</p>
+        <p>Design Using only one Font</p>
       </>
     ),
   },
   {
-    title: "SHARMi",
-    imgSrc: "/design-imgs/sharmi.png",
+    title: "Walpaper",
+    imgSrc: "walpaper_jm2k0u",
     code: "https://www.github.com/Rohangith1/ultronix_portfolio",
     // projectLink: "https://agency-iron-crm.herokuapp.com/",
 
-    tech: ["Illustrator", "Photoshop"],
-    description: "Design for a special t shirt",
+    tech: ["Photoshop"],
+    description: "Distort effect",
     modalContent: (
       <>
-        <p>This is very special design playing with the element</p>
-        <p>Font Used : Avaleigh, Grischel, Vertikal</p>
+        <p>Walpaper for Mac</p>
+       
         {/*<p>
           The team in total consists of 3 developers. This is a passion project
           for all of us.
@@ -192,7 +187,7 @@ const designs = [
   },
   {
     title: "UiX logo",
-    imgSrc: "/design-imgs/uixLogo.jpg",
+    imgSrc: "uixLogo_crvbth",
 
     tech: ["Illustrator", "Photoshop"],
     description: "A Logo for UiX",
@@ -203,37 +198,257 @@ const designs = [
     ),
   },
   {
-    title: "UiX Masterclass Logo",
-    imgSrc: "/design-imgs/mc.png",
+    title: "Glass",
+    imgSrc: "glass_abh2cs",
 
-    tech: ["Illustrator", "Photoshop"],
-    description: "This is design for the upcoming e-learning platform",
+    tech: [ "Photoshop"],
+    description: "The Cool Glass",
     modalContent: (
       <>
-        <p>Launching Soon.....</p>
+        <p>Wanna Know How !</p>
       </>
     ),
   },
   {
-    title: "adidas PREDEATOR Freak .1",
-    imgSrc: "/design-imgs/preditor.png",
-    tech: ["Illustrator", "Photoshop"],
-    description: "Tshirt design/Predator Freak",
+    title: "KiM YO JONG",
+    imgSrc: "2_j1xvww",
+
+    tech: ["Photoshop"],
+    description: "Cool effect",
     modalContent: (
       <>
-        <p>This is a T shirt design for adidas Predator Freak .1</p>
+        <p>Nice</p>
       </>
     ),
   },
   {
-    title: "Rental Enterprise",
-    imgSrc: "/design-imgs/rr.png",
-
-    tech: ["Illustrator"],
-    description: "A logo for Rental Enterprise(RE)",
+    title: "Nun",
+    imgSrc: "Demon_copy_kcu73z",
+    tech: ["Photoshop"],
+    description: "Demonic Nun",
     modalContent: (
       <>
-        <p>Rental Enterprise is a hardware Shop with all Home applience</p>
+        <p>The Art of Darkness</p>
+      </>
+    ),
+  },
+  {
+    title: "THUNDER poster Mockup",
+    imgSrc: "mockup_2-2_q33of2",
+
+    tech: ["Photoshop"],
+    description: "Realistic Poster Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "GITHUB BANNER",
+    imgSrc: "github_banner_copy_hnvweb",
+
+    tech: ["Photoshop"],
+    description: "Anti-Design",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  
+  
+  {
+    title: "Gaurdian Angel",
+    imgSrc: "gaurdian_angel2_11zon_kkzfj7",
+
+    tech: ["Photoshop"],
+    description: "The Gaurdian Angel ",
+    modalContent: (
+      <>
+        <p>MINIMAL ?</p>
+      </>
+    ),
+  },
+  {
+    title: "Life of a Graphic Designer",
+    imgSrc: "phixel_rqfynl",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>How you compete That</p>
+      </>
+    ),
+  },
+  {
+    title: "EQUUS",
+    imgSrc: "dd_gs0jb5",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Text-Effect Look cool Ha?</p>
+      </>
+    ),
+  },
+  {
+    title: "The Visionary Den",
+    imgSrc: "Fdf_gmbke0",
+
+    tech: ["Photoshop"],
+    description: "Thinking",
+    modalContent: (
+      <>
+        <p>Not soo Good</p>
+      </>
+    ),
+  },
+  
+  {
+    title: "Motion Blur",
+    imgSrc: "a_dkm5wg",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Font : Fit</p>
+      </>
+    ),
+  },
+  {
+    title: "Taylor-The Creator",
+    imgSrc: "taylor_the_craetor_copy_t7wlau",
+
+    tech: ["Photoshop"],
+    description: "Texture",
+    modalContent: (
+      <>
+        <p>Loop of his song</p>
+      </>
+    ),
+  },
+  {
+    title: "Equus",
+    imgSrc: "xaz_bbxbpy",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>West World</p>
+      </>
+    ),
+  },
+  {
+    title: "Escape",
+    imgSrc: "escape_jtf09b",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Window to heaven</p>
+      </>
+    ),
+  },
+  {
+    title: "Raven",
+    imgSrc: "raven_copy_vjr9cd",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Spooky Town</p>
+      </>
+    ),
+  },
+  {
+    title: "Desi.gn",
+    imgSrc: "abc_f95cbq",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Si-fi fun</p>
+      </>
+    ),
+  },
+  {
+    title: "Atlus",
+    imgSrc: "hack_gzgzmg",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Code Atlas</p>
+      </>
+    ),
+  },
+  {
+    title: "DeathStar",
+    imgSrc: "6_qo6xok",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>New Republic</p>
+      </>
+    ),
+  },
+ 
+  {
+    title: "Glass Effect Distortion",
+    imgSrc: "trick_votssr",
+
+    tech: ["Photoshop"],
+    description: "Glass effect",
+    modalContent: (
+      <>
+        <p>Cool  right?</p>
+      </>
+    ),
+  },
+  {
+    title: "Liqufity",
+    imgSrc: "3_gnsyze",
+
+    tech: ["Photoshop"],
+    description: "Text liquify",
+    modalContent: (
+      <>
+        <p>Liquify and Gradient</p>
+      </>
+    ),
+  },
+  {
+    title: "Nike Cover",
+    imgSrc: "nike_copy_wix8jr",
+
+    tech: ["Illustrator","Photoshop"],
+    description: "Nike Cover plastic wrap",
+    modalContent: (
+      <>
+        <p>Texture / Distort</p>
+      </>
+    ),
+  },
+  {
+    title: "Anti Design",
+    imgSrc: "cutout_copy_bdgpb2",
+
+    tech: ["Photoshop"],
+    description: "Cut out and cut out",
+    modalContent: (
+      <>
+        <p>Anti Design/ </p>
       </>
     ),
   },

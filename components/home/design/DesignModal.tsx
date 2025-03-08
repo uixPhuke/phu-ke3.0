@@ -48,7 +48,7 @@ export const DesignModal = ({
       >
         <Image
           priority
-          src={imgSrc}
+          src={`https://res.cloudinary.com/${process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME}/image/upload/${imgSrc}`}
           alt={`An image of the ${title} Design.`}
           width={500}
           height={400}
