@@ -464,4 +464,16 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "MiD Night Debug",
+    imgSrc: "new_efjl8c",
+
+    tech: ["Photoshop"],
+    description: "ft. ",
+    modalContent: (
+      <>
+        <p>Iam not alone </p>
+      </>
+    ),
+  },
 ];
