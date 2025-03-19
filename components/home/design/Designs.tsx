@@ -488,4 +488,16 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "Coming...",
+    imgSrc: "jist-tech-fest_xscopy_ijzghg",
+
+    tech: ["Photoshop"],
+    description: "revealing ",
+    modalContent: (
+      <>
+        <p>No desc </p>
+      </>
+    ),
+  },
 ];
