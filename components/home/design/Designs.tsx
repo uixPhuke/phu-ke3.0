@@ -465,14 +465,14 @@ const designs = [
     ),
   },
   {
-    title: "MiD Night Debug",
-    imgSrc: "new_efjl8c",
+    title: "NOiR",
+    imgSrc: "insta_lkvpja",
 
     tech: ["Photoshop"],
-    description: "ft. ",
+    description: "I am liking it ",
     modalContent: (
       <>
-        <p>Iam not alone </p>
+        <p>Soul</p>
       </>
     ),
   },
