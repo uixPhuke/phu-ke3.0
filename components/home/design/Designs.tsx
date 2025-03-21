@@ -500,4 +500,16 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "cat",
+    imgSrc: "cst-no-2_z1wf41",
+
+    tech: ["Photoshop"],
+    description: "loving one",
+    modalContent: (
+      <>
+        <p>No desc </p>
+      </>
+    ),
+  },
 ];
