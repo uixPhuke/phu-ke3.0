@@ -34,7 +34,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Beyond coding, I immerse myself in digital painting, where creativity fuels both inspiration and productivity. Art isn&apos;t just a passion—it &apos;s a catalyst for innovation. So, I &apos;m not just a developer - I &apos;m a designer too
+              Beyond coding, I immerse myself in digital Art, where creativity fuels both inspiration and productivity. Art isn&apos;t just a passion—it &apos;s a catalyst for innovation. So, I&apos;m not just a coder-I&apos;m a designer too
             </p>
           </Reveal>
           <Reveal>
