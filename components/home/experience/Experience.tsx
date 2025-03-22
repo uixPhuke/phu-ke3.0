@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Webhood Infotech",
     position: "Javascript Developer/ Backend Developer",
-    time: "Aug 2022 - October 2023",
+    time: "Aug 2022 - Oct 2023",
     location: "Jamshedpur, Jharkhand IND",
     description:
       "Create functional, high-level, dynamic and reusable components based on mock-up given using Velo Javascript . Coordinated on team for QA, bug fixes, features and code refactoring.",
@@ -30,7 +30,7 @@ const experience = [
   {
     title: "SnSinc media",
     position: "Graphic Designer",
-    time: "Nov 2024 - Going On",
+    time: "Nov 2024 - Mar 2025",
     location: "Guwahati, Assam IND",
     description:
       "Creating compelling visual content for our social media channels, website, and other digital marketing materials. Staying updated on the latest design trends and technologies to ensure our work remains fresh and innovative.",
