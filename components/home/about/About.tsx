@@ -34,9 +34,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              When I&apos;m not coding, I enjoy digital painting. I believe that
-              work of art is crucial for staying productive and motivated. So,
-              yeah Im a noob graphic designer too..
+              Beyond coding, I immerse myself in digital Art, where creativity fuels both inspiration and productivity. Art isn&apos;t just a passion—it &apos;s a catalyst for innovation. So, I&apos;m not just a coder-I&apos;m a designer too
             </p>
           </Reveal>
           <Reveal>
