@@ -501,11 +501,11 @@ const designs = [
     ),
   },
   {
-    title: "cat",
-    imgSrc: "cst-no-2_z1wf41",
+    title: "Hard Noard",
+    imgSrc: "T_m4blmf",
 
     tech: ["Photoshop"],
-    description: "loving one",
+    description: "Hard pressed",
     modalContent: (
       <>
         <p>No desc </p>
