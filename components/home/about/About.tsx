@@ -28,7 +28,7 @@ export const About = () => {
             <p className={styles.aboutText}>
               My skills include HTML, CSS, JavaScript, and various frontend
               frameworks like React and Vite.js. I&apos;ve also worked with
-              backend technologies like Node.js, MongoDB and PHP/Laravel ,
+              backend technologies like Node.js, Express.js, MongoDB and PHP/Laravel ,
               allowing me to build full-stack applications.
             </p>
           </Reveal>
