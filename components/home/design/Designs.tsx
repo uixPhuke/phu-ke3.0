@@ -526,7 +526,7 @@ const designs = [
   },
   {
     title: "Kishur Logo",
-    imgSrc: "T_m4blmf",
+    imgSrc: "kishur-Logo_osmroe",
 
     tech: ["Illstrator"],
     description: "Organic brand",
