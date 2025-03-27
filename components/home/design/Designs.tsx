@@ -512,4 +512,28 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "byphixel New LOgo",
+    imgSrc: "new-logo_krnswr",
+
+    tech: ["Photoshop, Illstrator"],
+    description: "bitmap Effect",
+    modalContent: (
+      <>
+        <p>Loaded</p>
+      </>
+    ),
+  },
+  {
+    title: "Kishur Logo",
+    imgSrc: "T_m4blmf",
+
+    tech: ["Illstrator"],
+    description: "Organic brand",
+    modalContent: (
+      <>
+        <p>Launching Soon </p>
+      </>
+    ),
+  },
 ];
