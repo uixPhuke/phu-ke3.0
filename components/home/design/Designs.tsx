@@ -536,4 +536,16 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "kkum LOGO",
+    imgSrc: "kkum-logo_nfgznc",
+
+    tech: ["Illstrator"],
+    description: "Clothing Brand",
+    modalContent: (
+      <>
+        <p>Not release </p>
+      </>
+    ),
+  },
 ];
