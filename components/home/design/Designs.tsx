@@ -548,4 +548,16 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "Shine",
+    imgSrc: "3d_copy_tvaggc",
+
+    tech: ["PhotoShop"],
+    description: "Texture",
+    modalContent: (
+      <>
+        <p>Not release </p>
+      </>
+    ),
+  },
 ];
