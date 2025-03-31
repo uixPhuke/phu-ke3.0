@@ -561,4 +561,17 @@ const designs = [
     ),
   },
   
+  {
+    title: "BLOOM",
+    imgSrc: "test_ssnj2f",
+
+    tech: ["PhotoShop"],
+    description: "Bitmap ",
+    modalContent: (
+      <>
+        <p>Dithering </p>
+      </>
+    ),
+  },
+  
 ];
