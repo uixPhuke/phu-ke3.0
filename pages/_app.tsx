@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import { Syne } from "next/font/google";
 import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 // Importing the Syne font with specified weights and subsets
 const syne = Syne({
@@ -14,6 +15,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <div id="root" className={syne.className}>
       <Component {...pageProps} />
       <Analytics />
+      <SpeedInsights />
     </div>
   );
 }
