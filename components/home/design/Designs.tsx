@@ -622,5 +622,53 @@ const designs = [
       </>
     ),
   },
+  {
+    title: "STReT x GRAFiTi",
+    imgSrc: "ccvt",
+
+    tech: ["illustrator"],
+    description: "Chromic effect ",
+    modalContent: (
+      <>
+        <p>Kinda like it </p>
+      </>
+    ),
+  },
+  {
+    title: "STReT x GRAFiTi",
+    imgSrc: "sste",
+
+    tech: ["illustrator"],
+    description: "Chromic effect ",
+    modalContent: (
+      <>
+        <p>Kinda like it </p>
+      </>
+    ),
+  },
+  {
+    title: "STReT x GRAFiTi",
+    imgSrc: "red1",
+
+    tech: ["illustrator"],
+    description: "Chromic effect ",
+    modalContent: (
+      <>
+        <p>Kinda like it </p>
+      </>
+    ),
+  },
+  {
+    title: "STReT x GRAFiTi",
+    imgSrc: "skyy",
+
+    tech: ["illustrator"],
+    description: "Chromic effect ",
+    modalContent: (
+      <>
+        <p>Kinda like it </p>
+      </>
+    ),
+  },
   
 ];
