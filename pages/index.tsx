@@ -21,7 +21,7 @@ export default function home() {
         <meta property="og:image" content="" />
         <meta
           property="og:description"
-          content="Hey! I'm UiX Phuke, and I'm a Full Stack dev"
+          content="Hey! I'm UiX Phuke, and I'm a Full Stack dev and Graphic Dsigner"
         />
 
         <meta name="twitter:card" content="summary" />
