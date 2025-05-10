@@ -295,7 +295,7 @@ const cdesigns = [
   },
   {
     title: "NANDAN",
-    imgSrc: "WhatsApp_Image_2024-12-11_at_16.15.44_efcifc",
+    imgSrc: "WhatsApp_Image_2025-01-17_at_11.54.15_kis6pp",
     tech: ["Photoshop"],
     description: "Review",
     modalContent: (
@@ -533,6 +533,17 @@ const cdesigns = [
     modalContent: (
       <>
         <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-17_at_12.16.59_rmzp21",
+    tech: ["Photoshop"],
+    description: "Review",
+    modalContent: (
+      <>
+        <p>5 star</p>
       </>
     ),
   },
