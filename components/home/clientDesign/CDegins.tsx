@@ -13,7 +13,7 @@ export const CDesigns = () => {
 
   return (
     <section id="cdesign" className="section-wrapper">
-      <SectionHeader title="Designs" dir="l" />
+      <SectionHeader title="Client Designs" dir="l" />
 
       {/* Masonry Grid */}
       <Masonry
