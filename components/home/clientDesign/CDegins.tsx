@@ -115,18 +115,6 @@ const cdesigns = [
     ),
   },
   {
-    title: "MArketing",
-    imgSrc: "7_uclf8l",
-    tech: ["Photoshop"],
-    description: "Abstract  ",
-    modalContent: (
-      <>
-        <p>SnS</p>
-      </>
-    ),
-  },
-
-  {
     title: "LUNAR",
     imgSrc: "IG_copy_fyuvvi",
     tech: ["Photoshop"],
@@ -137,6 +125,8 @@ const cdesigns = [
       </>
     ),
   },
+  
+
   {
     title: "Marketing",
     imgSrc: "8_pgbvdk",
@@ -167,6 +157,17 @@ const cdesigns = [
     modalContent: (
       <>
         <p>Sai Sthal</p>
+      </>
+    ),
+  },
+  {
+    title: "MArketing",
+    imgSrc: "7_uclf8l",
+    tech: ["Photoshop"],
+    description: "Abstract  ",
+    modalContent: (
+      <>
+        <p>SnS</p>
       </>
     ),
   },
@@ -771,8 +772,55 @@ const cdesigns = [
     },
   {
     title: "CANAL VIEW",
+      imgSrc: "serenity_copy_rsowxn",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "CANAL VIEW",
+      imgSrc: "sl9_copy_rvvjui",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "CANAL VIEW",
       imgSrc: "WhatsApp_Image_2025-01-23_at_16.03.03_sprpzw",
   
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+ 
+  {
+    title: "CANAL VIEW",
+      imgSrc: "sl3-1080_copy_hhlsco",
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "CANAL VIEW",
+      imgSrc: "enjoy_a_romantic_escape_wcp2gw",
       tech: ["Photoshop"],
       description: "Event Poster",
       modalContent: (
