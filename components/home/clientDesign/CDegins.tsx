@@ -439,6 +439,17 @@ const cdesigns = [
     ),
   },
   {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-08_at_11.00.18_vijify",
+    tech: ["Photoshop"],
+    description: "Review",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
     title: "Beckyzote",
     imgSrc: "WhatsApp_Image_2024-12-13_at_11.45.51_cnzzwm",
 
@@ -464,7 +475,43 @@ const cdesigns = [
   },
   {
     title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2025-01-18_at_14.41.32_xtcmiy",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2025-01-21_at_11.05.52_pfjzjx",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
     imgSrc: "WhatsApp_Image_2025-01-07_at_17.52.02_vtv6xk",
+
+    tech: ["Photoshop"],
+    description: "Valentine",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },{
+
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2025-01-20_at_14.09.08_vxrdeg",
 
     tech: ["Photoshop"],
     description: "Valentine",
@@ -489,6 +536,18 @@ const cdesigns = [
   {
   title: "CANAL VIEW",
     imgSrc: "WhatsApp_Image_2024-12-16_at_17.03.34_iy9atf",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "Hiring Poster",
+    imgSrc: "WhatsApp_Image_2025-01-29_at_10.45.02_kkvcrc",
 
     tech: ["Photoshop"],
     description: "Event Poster",
