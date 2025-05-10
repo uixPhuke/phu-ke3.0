@@ -418,6 +418,17 @@ const cdesigns = [
   },
   {
     title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-02-14_at_12.00.50_aw0678",
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
     imgSrc: "WhatsApp_Image_2025-02-12_at_12.03.24_cua6jr",
     tech: ["Photoshop"],
     description: "Event Poster",
