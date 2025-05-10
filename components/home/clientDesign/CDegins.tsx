@@ -662,6 +662,42 @@ const cdesigns = [
       </>
     ),
   },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2024-12-05_at_12.35.41_nhpt1e",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2024-12-06_at_10.39.51_qqqbct",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2024-12-05_at_11.20.19_y0sxfk",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
   
  
   {
