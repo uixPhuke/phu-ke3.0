@@ -418,6 +418,28 @@ const cdesigns = [
   },
   {
     title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-02-14_at_12.57.28_i1ygs5",
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-02-14_at_13.19.24_qvo7xk",
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
     imgSrc: "WhatsApp_Image_2025-02-14_at_12.00.50_aw0678",
     tech: ["Photoshop"],
     description: "Event Poster",
@@ -656,6 +678,42 @@ const cdesigns = [
   {
     title: "CANAL VIEW",
       imgSrc: "WhatsApp_Image_2025-01-23_at_16.03.03_sprpzw",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "HRAA",
+      imgSrc: "WhatsApp_Image_2025-03-05_at_12.54.56_gxvmyf",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "HRAA",
+      imgSrc: "WhatsApp_Image_2025-02-10_at_13.24.40_ftkvo8",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "Sai Sthal",
+      imgSrc: "WhatsApp_Image_2025-02-18_at_12.45.37_yvkxq2",
   
       tech: ["Photoshop"],
       description: "Event Poster",
