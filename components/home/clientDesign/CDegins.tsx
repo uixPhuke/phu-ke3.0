@@ -1,0 +1,543 @@
+import { SectionHeader } from "@/components/utils/SectionHeader";
+import { CDesign } from "./CDesign";
+import Masonry from "react-masonry-css";
+import styles from "./cdesign.module.scss";
+
+export const CDesigns = () => {
+  // Define breakpoints for the masonry layout
+  const breakpointColumnsObj = {
+    default: 4, // 4 columns for large screens
+    1024: 2, // 2 columns for medium screens
+    768: 1, // 1 column for small screens
+  };
+
+  return (
+    <section id="cdesign" className="section-wrapper">
+      <SectionHeader title="Designs" dir="l" />
+
+      {/* Masonry Grid */}
+      <Masonry
+        breakpointCols={breakpointColumnsObj}
+        className={styles.projects}
+        columnClassName={styles.masonryGridColumn}
+      >
+        {cdesigns.map((project) => {
+          return <CDesign key={project.title} {...project} />;
+        })}
+      </Masonry>
+    </section>
+  );
+};
+
+// Your designs array
+const cdesigns = [
+  {
+    title: "Food MOckup",
+    imgSrc: "aromatic_copy_jripq6", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "LUNAR-m BAR amd RESTAURANT",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "Sai SHTAL",
+    imgSrc: "WhatsApp_Image_2025-01-13_at_13.04.13_mwbcpo",
+
+    tech: ["Photoshop"],
+    description: "Sai sthal ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Sai SHTAL",
+    imgSrc: "WhatsApp_Image_2025-01-17_at_12.45.42_ocrtca",
+
+    tech: ["Photoshop"],
+    description: "Sai sthal ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Sai SHTAL",
+    imgSrc: "WhatsApp_Image_2025-01-16_at_16.28.49_j4hhch",
+
+    tech: ["Photoshop"],
+    description: "Sai sthal ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Sai SHTAL",
+    imgSrc: "WhatsApp_Image_2025-01-16_at_16.52.41_eor6h7",
+
+    tech: ["Photoshop"],
+    description: "Sai sthal ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "MArketing",
+    imgSrc: "7_uclf8l",
+    tech: ["Photoshop"],
+    description: "Abstract  ",
+    modalContent: (
+      <>
+        <p>SnS</p>
+      </>
+    ),
+  },
+
+  {
+    title: "LUNAR",
+    imgSrc: "IG_copy_fyuvvi",
+    tech: ["Photoshop"],
+    description: "Website Banner",
+    modalContent: (
+      <>
+        <p>LUNAR</p>
+      </>
+    ),
+  },
+  {
+    title: "Marketing",
+    imgSrc: "8_pgbvdk",
+    tech: ["Photoshop"],
+    description: "Abstract ",
+    modalContent: (
+      <>
+        <p>SnS</p>
+      </>
+    ),
+  },
+  {
+    title: "BAR",
+    imgSrc: "bar_copy_rjnvzw",
+    tech: ["Photoshop"],
+    description: "NANDAN  ",
+    modalContent: (
+      <>
+        <p>BAr </p>
+      </>
+    ),
+  },
+  {
+    title: "MArtyrs DAY",
+    imgSrc: "bapuu_bxvshx",
+    tech: ["Photoshop"],
+    description: "Sai Sthal ",
+    modalContent: (
+      <>
+        <p>Sai Sthal</p>
+      </>
+    ),
+  },
+  {
+    title: "Clickbait",
+    imgSrc: "3_aydt27",
+    tech: ["Photoshop"],
+    description: "FORUM snekar",
+    modalContent: (
+      <>
+        <p>Unleash Your Creativity with Every Steps</p>
+      </>
+    ),
+  },
+  {
+    title: "Pendant",
+    imgSrc: "8_copy_mu4obc",
+    tech: ["Illustrator", "Photoshop"],
+    description: "Website Banner",
+    modalContent: (
+      <>
+        <p>Website </p>
+      </>
+    ),
+  },
+  {
+    title: "SEEDS",
+    imgSrc: "5_bhqm5k",
+    tech: ["Photoshop"],
+    description: "BLOOM ",
+    modalContent: (
+      <>
+        <p>SnS</p>
+      </>
+    ),
+  },
+  {
+    title: "Valentine",
+    imgSrc: "valentine_copy_vh9yr1",
+    tech: ["Illustrator"],
+    description: "HRAA ",
+    modalContent: (
+      <>
+        <p>VAlentine</p>
+      </>
+    ),
+  },
+  {
+    title: "HOOM DECOR",
+    imgSrc: "abcdefgh_u5moyt",
+    tech: ["Photoshop"],
+    description: "DKRAJ",
+    modalContent: (
+      <>
+        <p>Website banner</p>
+      </>
+    ),
+  },
+  
+  {
+    title: "Saraswati PUJA",
+    imgSrc: "WhatsApp_Image_2024-12-06_at_14.35.22_zoqyai",
+
+    tech: ["Photoshop"],
+    description: "  ",
+    modalContent: (
+      <>
+        <p>HRAA</p>
+      </>
+    ),
+  },
+  {
+    title: "MOP",
+    imgSrc: "gem_stunning_copy_trrrtj",
+    code: "https://www.github.com/Rohangith1/ultronix_portfolio",
+    // projectLink: "https://agency-iron-crm.herokuapp.com/",
+
+    tech: ["Photoshop"],
+    description: "Distort effect",
+    modalContent: (
+      <>
+        <p>DKRAJ</p>
+       
+        {/*<p>
+          The team in total consists of 3 developers. This is a passion project
+          for all of us.
+        </p>*/}
+      </>
+    ),
+  },
+  {
+    title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2024-12-07_at_11.28.25_viijom",
+
+    tech: ["Illustrator", "Photoshop"],
+    description: "A Logo for UiX",
+    modalContent: (
+      <>
+        <p>Made to create some sign.</p>
+      </>
+    ),
+  },
+  {
+    title: "BASANTA PANCHAMI",
+    imgSrc: "WhatsApp_Image_2024-12-06_at_14.39.32_iwr7c1",
+
+    tech: [ "Photoshop"],
+    description: "NANDAN",
+    modalContent: (
+      <>
+        <p>Swaraswati Puja</p>
+      </>
+    ),
+  },
+  {
+    title: "BASANTA PANCHAMI",
+    imgSrc: "WhatsApp_Image_2024-12-07_at_11.55.14_t7fzfv",
+
+    tech: [ "Photoshop"],
+    description: "Canal VIEW",
+    modalContent: (
+      <>
+        <p>Swaraswati Puja</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2024-12-10_at_13.18.30_opoqmz",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2024-12-10_at_15.44.51_e8cnmm",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2024-12-11_at_16.15.44_efcifc",
+    tech: ["Photoshop"],
+    description: "Review",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2024-12-11_at_16.40.37_xkus3b",
+    tech: ["Photoshop"],
+    description: "Food Mockup",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-09_at_17.39.55_plt2z9",
+    tech: ["Photoshop"],
+    description: "Food Mockup",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-09_at_17.39.47_twnmn8",
+    tech: ["Photoshop"],
+    description: "Food Mockup",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-09_at_17.42.00_arjnel",
+    tech: ["Photoshop"],
+    description: "Food Mockup",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2024-12-12_at_17.53.23_vruzlf",
+    tech: ["Photoshop"],
+    description: "Food Mockup",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2024-12-12_at_15.25.59_oruvek",
+    tech: ["Photoshop"],
+    description: "Hall",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-09_at_11.51.47_tsn5so",
+    tech: ["Photoshop"],
+    description: "Bed",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2024-12-27_at_18.32.00_dkkwbm",
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-01-06_at_15.29.22_jfftvb",
+    tech: ["Photoshop"],
+    description: "Valentine",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2024-12-13_at_11.45.51_cnzzwm",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2025-01-07_at_17.52.02_vtv6xk",
+
+    tech: ["Photoshop"],
+    description: "Valentine",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
+    imgSrc: "WhatsApp_Image_2024-12-16_at_18.24.53_sqzoos",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2024-12-16_at_17.03.34_iy9atf",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2025-01-11_at_17.54.03_hfimsq",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2025-01-06_at_12.02.46_crwjdw",
+
+    tech: ["Photoshop"],
+    description: "Valentine",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2025-01-02_at_11.13.19_mps97w",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2025-01-11_at_18.05.07_exhmlu",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+  title: "CANAL VIEW",
+    imgSrc: "WhatsApp_Image_2025-01-11_at_18.05.15_ojnxud",
+
+    tech: ["Photoshop"],
+    description: "Event Poster",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "PLOT",
+    imgSrc: "WhatsApp_Image_2025-01-07_at_18.14.51_xduttx",
+
+    tech: ["Photoshop"],
+    description: "PLOT ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+ 
+  {
+    title: "Hiring Poster",
+    imgSrc: "WhatsApp_Image_2025-01-16_at_18.05.45_2_frq3g2",
+
+    tech: ["Photoshop"],
+    description: "BBlunt ",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  
+  
+  
+  
+];

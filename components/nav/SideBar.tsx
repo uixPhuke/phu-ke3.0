@@ -79,6 +79,16 @@ export const SideBar = () => {
           initial={{ x: -70 }}
           animate={{ x: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
+          href="#cdesign"
+          onClick={() => setSelected("cdesign")}
+          className={selected === "cdesign" ? styles.selected : ""}
+        >
+          Client 
+        </motion.a>
+        <motion.a
+          initial={{ x: -70 }}
+          animate={{ x: 0 }}
+          transition={{ duration: 0.5, delay: 0.5 }}
           href="#experience"
           onClick={() => setSelected("experience")}
           className={selected === "experience" ? styles.selected : ""}
@@ -88,7 +98,7 @@ export const SideBar = () => {
         <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}
-          transition={{ duration: 0.5, delay: 0.5 }}
+          transition={{ duration: 0.5, delay: 0.6 }}
           href="#contact"
           onClick={() => setSelected("contact")}
           className={selected === "contact" ? styles.selected : ""}
