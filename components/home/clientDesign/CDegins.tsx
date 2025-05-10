@@ -781,18 +781,7 @@ const cdesigns = [
         </>
       ),
     },
-  {
-    title: "HRAA",
-      imgSrc: "WhatsApp_Image_2025-03-05_at_12.54.56_gxvmyf",
-  
-      tech: ["Photoshop"],
-      description: "Event Poster",
-      modalContent: (
-        <>
-          <p>Nice</p>
-        </>
-      ),
-    },
+ 
   {
     title: "HRAA",
       imgSrc: "martyrs_day_kjhxfh",
@@ -817,6 +806,18 @@ const cdesigns = [
         </>
       ),
     },
+    {
+      title: "HRAA",
+        imgSrc: "WhatsApp_Image_2025-03-05_at_12.54.56_gxvmyf",
+    
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
   {
     title: "HRAA",
       imgSrc: "WhatsApp_Image_2025-02-10_at_13.24.40_ftkvo8",
