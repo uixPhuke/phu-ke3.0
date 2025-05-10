@@ -486,6 +486,17 @@ const cdesigns = [
   },
   {
     title: "NANDAN",
+    imgSrc: "sl66_copy-min_cmkbnf",
+    tech: ["Photoshop"],
+    description: "Food",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
+    title: "NANDAN",
     imgSrc: "WhatsApp_Image_2025-01-06_at_15.29.22_jfftvb",
     tech: ["Photoshop"],
     description: "Valentine",
