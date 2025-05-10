@@ -41,7 +41,19 @@ const cdesigns = [
         <p>Using Typography</p>
       </>
     ),
-  },
+  },{
+    title: "SnS",
+      imgSrc: "WhatsApp_Image_2025-02-19_at_16.59.33_o7mzkt",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  
   {
     title: "Sai SHTAL",
     imgSrc: "WhatsApp_Image_2025-01-13_at_13.04.13_mwbcpo",
@@ -54,6 +66,18 @@ const cdesigns = [
       </>
     ),
   },
+  {
+    title: "SnS",
+      imgSrc: "WhatsApp_Image_2025-03-07_at_11.55.48_enbqyg",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
   {
     title: "Sai SHTAL",
     imgSrc: "WhatsApp_Image_2025-01-17_at_12.45.42_ocrtca",
@@ -652,6 +676,17 @@ const cdesigns = [
     ),
   },
   {
+    title: "NANDAN",
+    imgSrc: "WhatsApp_Image_2025-03-07_at_15.16.41_bs3j5d",
+    tech: ["Photoshop"],
+    description: "Review",
+    modalContent: (
+      <>
+        <p>5 star</p>
+      </>
+    ),
+  },
+  {
     title: "CANAL VIEW",
       imgSrc: "WhatsApp_Image_2025-01-11_at_17.54.03_hfimsq",
   
@@ -720,6 +755,152 @@ const cdesigns = [
       modalContent: (
         <>
           <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "Hiring",
+      imgSrc: "WhatsApp_Image_2025-03-05_at_18.11.46_tili7b",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Hiring",
+      imgSrc: "WhatsApp_Image_2025-03-05_at_18.11.47_njeta2",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "La Bella",
+      imgSrc: "WhatsApp_Image_2025-03-07_at_15.17.03_qegxjn",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Grid",
+      imgSrc: "WhatsApp_Image_2025-03-11_at_17.20.04_xdpwco",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+    
+  {
+    title: "Website",
+      imgSrc: "WhatsApp_Image_2025-03-11_at_17.20.05_aavqcc",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Website Banner",
+      imgSrc: "Main_Banner_mlcqu1",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>DkRAJ</p>
+        </>
+      ),
+    },
+  
+  {
+    title: "Lunar",
+      imgSrc: "FUTURISTIC_FrIDAY_copy_oiz0uv",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "1a_y60spk",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "img_2_zg5on8",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "pavan_fxwyaw",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "v2-offer_dtbgv0",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "cricket_copy_izvprp",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
         </>
       ),
     },
