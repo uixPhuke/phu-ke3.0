@@ -556,6 +556,18 @@ const cdesigns = [
   },
   {
     title: "Beckyzote",
+    imgSrc: "glow-moist-cream_cop21y_b7rk9g",
+
+    tech: ["Photoshop"],
+    description: "Mockup",
+    modalContent: (
+      <>
+        <p>Nice</p>
+      </>
+    ),
+  },
+  {
+    title: "Beckyzote",
     imgSrc: "WhatsApp_Image_2025-01-07_at_17.52.02_vtv6xk",
 
     tech: ["Photoshop"],
@@ -736,6 +748,30 @@ const cdesigns = [
     },
   {
     title: "HRAA",
+      imgSrc: "martyrs_day_kjhxfh",
+  
+      tech: ["Photoshop"],
+      description: "Event Poster",
+      modalContent: (
+        <>
+          <p>Nice</p>
+        </>
+      ),
+    },
+  {
+    title: "SnS",
+      imgSrc: "sns-logo-1_apd99p",
+  
+      tech: ["illustrator"],
+      description: "Logo",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "HRAA",
       imgSrc: "WhatsApp_Image_2025-02-10_at_13.24.40_ftkvo8",
   
       tech: ["Photoshop"],
@@ -845,6 +881,42 @@ const cdesigns = [
       ),
     },
   {
+    title: "Lunar",
+      imgSrc: "IG_aoqh6t",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Lunar",
+      imgSrc: "celebrate_with_us_z6wnuh",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
+    title: "Lunar",
+      imgSrc: "IG_copy_2_vjqtba",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>SnS</p>
+        </>
+      ),
+    },
+  {
     title: "Pawan Hyundai",
       imgSrc: "1a_y60spk",
   
@@ -901,6 +973,114 @@ const cdesigns = [
       modalContent: (
         <>
           <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Pawan Hyundai",
+      imgSrc: "forest_yeo9jq",
+  
+      tech: ["Photoshop"],
+      description: "Feb",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Laxmi Yamaha",
+      imgSrc: "v2_copy_xdtofx",
+  
+      tech: ["Photoshop"],
+      description: "Mothers Day",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Laxmi Yamaha",
+      imgSrc: "11_exdcbj",
+  
+      tech: ["Photoshop"],
+      description: "Mothers Day",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+  {
+    title: "Hero",
+      imgSrc: "v3_ctjmxv",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
+        </>
+      ),
+    },
+  {
+    title: "Hero",
+      imgSrc: "sai_k2q2zg",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
+        </>
+      ),
+    },
+  {
+    title: "Hero",
+      imgSrc: "2_ubdc3a",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
+        </>
+      ),
+    },
+  {
+    title: "TVS",
+      imgSrc: "v2-l_neehdm",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
+        </>
+      ),
+    },
+  {
+    title: "TVS",
+      imgSrc: "s1_k659tr",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
+        </>
+      ),
+    },
+  {
+    title: "TVS",
+      imgSrc: "v3_copy_krcdis",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hero</p>
         </>
       ),
     },
