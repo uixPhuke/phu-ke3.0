@@ -1180,6 +1180,62 @@ const cdesigns = [
         </>
       ),
     },
+  {
+    title: "Hyundai",
+      imgSrc: "mothersday_hbib7d",
+  
+      tech: ["Photoshop"],
+      description: "Poster",
+      modalContent: (
+        <>
+          <p>Hyundai</p>
+        </>
+      ),
+    },
+    {
+      title: "CANAL VIEW",
+        imgSrc: "serenity_copy_rsowxn",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "CANAL VIEW",
+        imgSrc: "sl9_copy_rvvjui",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "CANAL VIEW",
+        imgSrc: "sl3-1080_copy_hhlsco",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "CANAL VIEW",
+        imgSrc: "enjoy_a_romantic_escape_wcp2gw",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
     
   
   
