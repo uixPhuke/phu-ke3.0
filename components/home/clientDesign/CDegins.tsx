@@ -1258,6 +1258,17 @@ const cdesigns = [
           </>
         ),
       },
+    {
+      title: "Kishur",
+        imgSrc: "5kg_copy_wdnjx4",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
     
   
   
