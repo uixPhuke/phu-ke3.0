@@ -1269,6 +1269,39 @@ const cdesigns = [
           </>
         ),
       },
+    {
+      title: "LOTIGHOTI",
+        imgSrc: "WOMENS_DAY-LOTIGHOTI_dqbzom",
+        tech: ["Photoshop"],
+        description: "Womens Day",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "LOTIGHOTI",
+        imgSrc: "hoodie_u9rs8p",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "LOTIGHOTI",
+        imgSrc: "v3_sd4wvp",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
     
   
   
