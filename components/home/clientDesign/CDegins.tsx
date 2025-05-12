@@ -628,7 +628,7 @@ const cdesigns = [
   },
   {
   title: "Hiring Poster",
-    imgSrc: "WhatsApp_Image_2025-01-29_at_10.45.02_kkvcrc",
+    imgSrc: "WhatsApp_Image_2025-01-29_at_14.06.43_1_q1go3p",
 
     tech: ["Photoshop"],
     description: "Event Poster",
