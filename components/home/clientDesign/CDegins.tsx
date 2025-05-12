@@ -1236,6 +1236,28 @@ const cdesigns = [
           </>
         ),
       },
+    {
+      title: "NANDAN",
+        imgSrc: "WhatsApp_Image_2025-02-12_at_17.59.10_nfbnm7",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "NANDAN",
+        imgSrc: "WhatsApp_Image_2025-03-07_at_17.40.03_ejdoo8",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
     
   
   
