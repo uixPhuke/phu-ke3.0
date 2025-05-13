@@ -1292,8 +1292,30 @@ const cdesigns = [
         ),
       },
     {
+      title: "Pawan Hyundai",
+        imgSrc: "pawan-h_dyzmyx",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
       title: "LOTIGHOTI",
         imgSrc: "v3_sd4wvp",
+        tech: ["Photoshop"],
+        description: "Event Poster",
+        modalContent: (
+          <>
+            <p>Nice</p>
+          </>
+        ),
+      },
+    {
+      title: "TVS",
+        imgSrc: "mrali_lqdpwn",
         tech: ["Photoshop"],
         description: "Event Poster",
         modalContent: (
