@@ -75,7 +75,7 @@ export const SideBar = () => {
         >
           Designs
         </motion.a>
-        <motion.a
+        {/* <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}
           transition={{ duration: 0.5, delay: 0.4 }}
@@ -84,7 +84,7 @@ export const SideBar = () => {
           className={selected === "cdesign" ? styles.selected : ""}
         >
           Client 
-        </motion.a>
+        </motion.a> */}
         <motion.a
           initial={{ x: -70 }}
           animate={{ x: 0 }}

@@ -8,7 +8,7 @@ import { Projects } from "./projects/Projects";
 import { Designs } from "./design/Designs";
 import { Experience } from "./experience/Experience";
 import { Contact } from "./contact/Contact";
-import { CDesigns } from "./clientDesign/CDegins";
+//import { CDesigns } from "./clientDesign/CDegins";
 
 export const Home = () => {
   return (
@@ -21,7 +21,7 @@ export const Home = () => {
           <About />
           <Projects />
           <Designs /> {/* Design */}
-          <CDesigns/>
+          {/* <CDesigns/> */}
           <Experience />
           <Contact />
           <div
