@@ -55,27 +55,27 @@ const projects = [
       </>
     ),
   },
-  {
-    title: "School management system",
-    imgSrc: "/project-imgs/school.png",
-    code: "https://www.github.com/Rohangith1",
-    projectLink: "#",
-    tech: ["Python", "Django", "sqlite", "Laravel"],
-    description:
-      "This is a school/college management system with full functionality ",
-    modalContent: (
-      <>
-        <p>
-          Worked on full stack developement and created full functionality to
-          Admin, Teacher and Student panel
-        </p>
-        <p>
-          The tech stack is based on Python with Django framework, connected to
-          a Laravel backend, with data stored in sqlite.
-        </p>
-      </>
-    ),
-  },
+  // {
+  //   title: "School management system",
+  //   imgSrc: "/project-imgs/school.png",
+  //   code: "https://www.github.com/Rohangith1",
+  //   projectLink: "#",
+  //   tech: ["Python", "Django", "sqlite", "Laravel"],
+  //   description:
+  //     "This is a school/college management system with full functionality ",
+  //   modalContent: (
+  //     <>
+  //       <p>
+  //         Worked on full stack developement and created full functionality to
+  //         Admin, Teacher and Student panel
+  //       </p>
+  //       <p>
+  //         The tech stack is based on Python with Django framework, connected to
+  //         a Laravel backend, with data stored in sqlite.
+  //       </p>
+  //     </>
+  //   ),
+  // },
   {
     title: "MERN Memory GAME",
     imgSrc: "/project-imgs/mg.png",
