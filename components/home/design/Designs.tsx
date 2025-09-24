@@ -707,6 +707,365 @@ const designs = [
     ),
   },
   {
+    title: "client",
+    imgSrc: "hh_bbm4z1",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "glamour_zb2uev",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "creta_renlt0",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "forest_cimayi",
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "glamour_2_gaukgt",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "harly_nyzhfx",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "77_copy_2_cna4xk",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-03-07_at_11.55.48_enbqyg",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "Main_Banner_mlcqu1",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "pawan-h_dyzmyx",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "7770_copy_gyx3fe",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "allMT_copy_g9yycm",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "monsoon_dow2bc",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-03-11_at_17.20.05_aavqcc",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "hd_ntotna",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-03-11_at_17.20.04_xdpwco",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "xtremye_copy_ei1yyy",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "xtreme_g9y4ic",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "mt-15_g8aefw",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-01-18_at_14.41.32_xtcmiy",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "m-hd_copy_hz95zw",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "JJJ_xflscz",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-01-17_at_12.45.42_ocrtca",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "image_s6mtml",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "cricket_copy_izvprp",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "WhatsApp_Image_2025-01-17_at_12.45.42_ocrtca",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "250r_copy_zmbtyj",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "vinayak_2_scp7na",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "r15v4_copy_ebisod",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
+    title: "client",
+    imgSrc: "pavan_2_hsscbj",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Client project</p>
+      </>
+    ),
+  },
+  {
     title: "Equus",
     imgSrc: "sideView-kisur-1kg_copy_wpez5c",
 
