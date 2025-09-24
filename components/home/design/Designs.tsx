@@ -32,6 +32,259 @@ export const Designs = () => {
 // Your designs array
 const designs = [
   {
+    title: "image",
+    imgSrc: "main_zznp9b", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "22_xtcbd0", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "main_eruru9", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "23_f7mqbs", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "32_udijby", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "japen_copy_x56zfl", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "main_r2qqdz", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "sssdc_lmpvdd", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "gg_kxx7ys", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "Untitled-1_05_ykt4ub", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "peaks_vw7ugl", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "FW_Retro_Smart_Device_copy_nsqsnj", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "8-Track-Cartridge-S_copy_ftxh4e", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "FW_Slim_Case_copy_unczgl", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "11psd_d0skqm", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "Vinyl_Record_Mockup_01_S_copy_nnkrqt", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "abyaantrix_copy_ih3upi", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "hh_s7xovw", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "vintage-tee-back_copy_yendm6", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "FW_Slim_Case_copy_ivotoe", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "FUTURISTIC_CD_CASE_MOCKUP_DESIGN_SYNDROME_copy_mv7y9f", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "FUTURISTIC_CD_CASE_weMOCKUP_DESIGN_SYNDROME_copy_jd98xk", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "bulbfish_vinyl_mockup_scennnne_copy_vm5yqd", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
     title: "BiLLiE EiLiSH-Birds of a Feather",
     imgSrc: "billie_eilish_hqaxdl", // Cloudinary public ID
     tech: ["Photoshop"],
