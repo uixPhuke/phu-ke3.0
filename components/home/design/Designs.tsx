@@ -154,6 +154,39 @@ const designs = [
   },
   {
     title: "image",
+    imgSrc: "FW_Glued_Poster_copy_fcglwn", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "album_copy_l4nbq6", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "vintage-tee-back_copy_2_znpneb", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
     imgSrc: "FW_Retro_Smart_Device_copy_nsqsnj", // Cloudinary public ID
     tech: ["Photoshop"],
     description: "base",
@@ -188,6 +221,50 @@ const designs = [
   {
     title: "image",
     imgSrc: "11psd_d0skqm", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "lachit-lotighoti_fxpwnh", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "tears_copy_imn7mg", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "sns-logo-1_apd99p", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "WhatsApp_Image_2025-02-17_at_16.12.10_rlzqar", // Cloudinary public ID
     tech: ["Photoshop"],
     description: "base",
     modalContent: (
