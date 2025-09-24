@@ -682,6 +682,18 @@ const designs = [
       </>
     ),
   },
+   {
+    title: "Equus",
+    imgSrc: "xaz_bbxbpy",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>West World</p>
+      </>
+    ),
+  },
   {
     title: "Taylor-The Creator",
     imgSrc: "taylor_the_craetor_copy_t7wlau",
@@ -694,18 +706,7 @@ const designs = [
       </>
     ),
   },
-  {
-    title: "Equus",
-    imgSrc: "xaz_bbxbpy",
-
-    tech: ["Photoshop"],
-    description: "Typography",
-    modalContent: (
-      <>
-        <p>West World</p>
-      </>
-    ),
-  },
+ 
   {
     title: "client",
     imgSrc: "hh_bbm4z1",
