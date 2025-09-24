@@ -707,6 +707,18 @@ const designs = [
     ),
   },
   {
+    title: "Equus",
+    imgSrc: "sideView-kisur-1kg_copy_wpez5c",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>West World</p>
+      </>
+    ),
+  },
+  {
     title: "Escape",
     imgSrc: "escape_jtf09b",
 
@@ -937,102 +949,102 @@ const designs = [
     ),
   },
   
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-8_q4bgon",
+// {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-8_q4bgon",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-5_lypzae",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-5_lypzae",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_20_bxtir0",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_20_bxtir0",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-7_pwvvrc",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-7_pwvvrc",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-3_aaenls",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-3_aaenls",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-6_wgddv1",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-6_wgddv1",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-4_w1olle",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-4_w1olle",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
-  {
-    title: "STReT x GRAFiTi",
-    imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-2_kiwsbl",
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
+//   {
+//     title: "STReT x GRAFiTi",
+//     imgSrc: "Full_20collection_20-_20Street_20signs_20-_20I_E2_80_99ve_20put_20it_20in_20the_20louvre_20_20_20Really_20love_20these_20mock-ups_2C_20what_20do_20you_20think_20guys_20And_20let_20me_20know_20fav_20sign_2C_20just_20put_20the_20number_20in_20the_-2_kiwsbl",
 
-    tech: ["illustrator"],
-    description: "Chromic effect ",
-    modalContent: (
-      <>
-        <p>Kinda like it </p>
-      </>
-    ),
-  },
+//     tech: ["illustrator"],
+//     description: "Chromic effect ",
+//     modalContent: (
+//       <>
+//         <p>Kinda like it </p>
+//       </>
+//     ),
+//   },
   {
     title: "STReT x GRAFiTi",
     imgSrc: "mockup-j_eax2n4",
