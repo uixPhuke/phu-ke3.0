@@ -25,10 +25,13 @@ export const Stats = () => {
             <span className="chip">Redux</span>
             <span className="chip">NodeJS</span>
             <span className="chip">Express</span>
+            <span className="chip">Shadecn</span>
 
             <span className="chip">MongoDB</span>
 
             <span className="chip">GitHub</span>
+            <span className="chip">Vercel</span>
+            <span className="chip">Render</span>
           </div>
         </div>
       </Reveal>
