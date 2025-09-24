@@ -242,6 +242,39 @@ const designs = [
   },
   {
     title: "image",
+    imgSrc: "5kg_copy_jxkggi", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "linkdin-banner_copy_r890rd", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
+    imgSrc: "reg_copy_m3jufz", // Cloudinary public ID
+    tech: ["Photoshop"],
+    description: "base",
+    modalContent: (
+      <>
+        <p>Using Typography</p>
+      </>
+    ),
+  },
+  {
+    title: "image",
     imgSrc: "tears_copy_imn7mg", // Cloudinary public ID
     tech: ["Photoshop"],
     description: "base",
