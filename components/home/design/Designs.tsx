@@ -678,7 +678,7 @@ const designs = [
     description: "Typography",
     modalContent: (
       <>
-        <p>Font : Fit</p>
+        <p>Font Fit</p>
       </>
     ),
   },
