@@ -52,7 +52,7 @@ export const Stats = () => {
             <span className="chip">Davinci Resolve</span>
             <span className="chip">Premier Pro</span>
 
-            <span className="chip">Vercel</span>
+           
             <span className="chip">Laravel</span>
           </div>
         </div>
