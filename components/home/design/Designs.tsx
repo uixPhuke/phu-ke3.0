@@ -669,19 +669,6 @@ const designs = [
       </>
     ),
   },
-  
-  {
-    title: "Motion Blur",
-    imgSrc: "a_dkm5wg",
-
-    tech: ["Photoshop"],
-    description: "Typography",
-    modalContent: (
-      <>
-        <p>Font Fit</p>
-      </>
-    ),
-  },
    {
     title: "Equus",
     imgSrc: "xaz_bbxbpy",
@@ -787,6 +774,17 @@ const designs = [
     modalContent: (
       <>
         <p>Client project</p>
+      </>
+    ),
+  },{
+    title: "Motion Blur",
+    imgSrc: "a_j4depo",
+
+    tech: ["Photoshop"],
+    description: "Typography",
+    modalContent: (
+      <>
+        <p>Font Fit</p>
       </>
     ),
   },
