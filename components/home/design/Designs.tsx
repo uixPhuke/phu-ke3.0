@@ -776,12 +776,25 @@ const designs = [
         <p>Client project</p>
       </>
     ),
-  },{
+  },
+  {
     title: "Motion Blur",
     imgSrc: "a_j4depo",
 
     tech: ["Photoshop"],
     description: "Typography",
+    modalContent: (
+      <>
+        <p>Font Fit</p>
+      </>
+    ),
+  },
+  {
+    title: "DKRAJ",
+    imgSrc: "Main_Banner_mlcqu1",
+
+    tech: ["Photoshop"],
+    description: "Jewelery",
     modalContent: (
       <>
         <p>Font Fit</p>
