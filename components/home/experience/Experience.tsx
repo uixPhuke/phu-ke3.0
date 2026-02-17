@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Webhood Infotech",
     position: "Javascript Developer/ Backend Developer",
-    time: "Aug 2022 - Oct 2023",
+    time: "Aug 2022 - Nov 2022",
     location: "Jamshedpur, Jharkhand IND",
     description:
       "Create functional, high-level, dynamic and reusable components based on mock-up given using Velo Javascript . Coordinated on team for QA, bug fixes, features and code refactoring.",
